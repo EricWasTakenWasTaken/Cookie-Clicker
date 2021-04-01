@@ -7,7 +7,7 @@ BlackholeInverter.GameVersion = '2.031';
 
 BlackholeInverter.launch = function(){
 	BlackholeInverter.init = function(){
-		var iconsURL = 'https://klattmose.github.io/CookieClicker/img/customIcons.png';
+		var iconsURL = 'https://ericwastakenwastaken.github.io/Cookie-Clicker/img/DECOMPRESS.png';
 		
 		CCSE.NewBuilding('Black hole inverter',
 			'black hole inverter|black hole inverters|extracted|[X]% larger event horizon|[X]% larger event horizon',
@@ -15,7 +15,7 @@ BlackholeInverter.launch = function(){
 			1,
 			1,
 			{
-				base:'https://ericwastakenwastaken.github.io/Cookie-Clicker/img/DECOMPRESS.png',
+				base:'https://klattmose.github.io/CookieClicker/img/blackholeinverter',
 				xV:8,
 				yV:32,
 				w:128,
