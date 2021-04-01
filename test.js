@@ -122,4 +122,3 @@ if(!BlackholeInverter.isLoaded){
 		CCSE.postLoadHooks.push(BlackholeInverter.launch);
 	}
 }
-
