@@ -15,7 +15,7 @@ BlackholeInverter.launch = function(){
 			1,
 			1,
 			{
-				base:'https://ericwastakenwastaken.github.io/Cookie-Clicker/img/DECOMPRESS',
+				base:'https://ericwastakenwastaken.github.io/Cookie-Clicker/img/UniversalDecompressorBuilding.png',
 				xV:8,
 				yV:32,
 				w:128,
